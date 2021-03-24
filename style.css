@@ -1,0 +1,15 @@
+/*style for scroollbar*/
+
+::-webkit-Scrollbar {
+    width: 15px;
+    background-color: #cc3366;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: white !important;
+}
+
+::-webkit-scrollbar-thumb:active {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
